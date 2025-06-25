@@ -114,7 +114,8 @@
     },
     {
       "name": "automotive.sommr",
-      "github_id": "eclipse-sommr"
+      "github_id": "eclipse-sommr",
+      "archived": true
     },
     {
       "name": "automotive.sumo",
@@ -299,7 +300,8 @@
     },
     {
       "name": "iot.fog05",
-      "github_id": "eclipse-fog05"
+      "github_id": "eclipse-fog05",
+      "archived": true
     },
     {
       "name": "iot.hawkbit",
@@ -331,7 +333,8 @@
     },
     {
       "name": "iot.keti",
-      "github_id": "eclipse-keti"
+      "github_id": "eclipse-keti",
+      "archived": true
     },
     {
       "name": "iot.keyple",
@@ -1147,10 +1150,6 @@
     {
       "name": "iot.oscat",
       "github_id": "eclipse-oscat"
-    },
-    {
-      "name": "automotive.arche",
-      "github_id": "eclipse-arche"
     }
   ]
 }
