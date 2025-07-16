@@ -89,6 +89,10 @@
       "github_id": "eclipse-openmcx"
     },
     {
+      "name": "automotive.opensovd",
+      "github_id": "eclipse-opensovd"
+    },
+    {
       "name": "automotive.openxilenv",
       "github_id": "eclipse-openxilenv"
     },
