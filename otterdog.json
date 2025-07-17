@@ -49,6 +49,10 @@
       "github_id": "eclipse-chariott"
     },
     {
+      "name": "automotive.dco.wss-packer",
+      "github_id": "eclipse-wss-packer"
+    },    
+    {
       "name": "automotive.ecal",
       "github_id": "eclipse-ecal"
     },
