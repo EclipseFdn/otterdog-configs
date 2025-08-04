@@ -604,6 +604,10 @@
       "github_id": "eclipse-kitalpha"
     },
     {
+      "name": "research.researchlabs",
+      "github_id": "eclipse-researchlabs"
+    },
+    {
       "name": "rt.ecf",
       "github_id": "eclipse-ecf"
     },
