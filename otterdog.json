@@ -1162,6 +1162,10 @@
     {
       "name": "iot.oscat",
       "github_id": "eclipse-oscat"
+    },
+    {
+      "name": "automotive.arche",
+      "github_id": "eclipse-arche"
     }
   ]
 }
