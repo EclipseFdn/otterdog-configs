@@ -1166,6 +1166,10 @@
     {
       "name": "tools.copilot",
       "github_id": "eclipse-copilot"
+    },
+    {
+      "name": "technology.disuko",
+      "github_id": "eclipse-disuko"
     }
   ]
 }
