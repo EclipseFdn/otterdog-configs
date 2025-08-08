@@ -1100,6 +1100,10 @@
       "github_id": "eclipse-adore"
     },
     {
+      "name": "automotive.arche",
+      "github_id": "eclipse-arche"
+    },
+    {
       "name": "automotive.autoapiframework",
       "github_id": "eclipse-autoapiframework"
     },
