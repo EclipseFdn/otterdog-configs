@@ -1164,6 +1164,14 @@
       "github_id": "eclipse-oscat"
     },
     {
+      "name": "tools.copilot",
+      "github_id": "eclipse-copilot"
+    },
+    {
+      "name": "technology.disuko",
+      "github_id": "eclipse-disuko"
+    },
+    {      
       "name": "automotive.arche",
       "github_id": "eclipse-arche"
     }
