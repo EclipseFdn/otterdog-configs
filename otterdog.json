@@ -1112,6 +1112,10 @@
       "github_id": "eclipse-autowrx"
     },
     {
+      "name": "automotive.openvehicle-api",
+      "github_id": "eclipse-openvehicle-api"
+    },
+    {
       "name": "technology.lsp4jakarta",
       "github_id": "eclipse-lsp4jakarta"
     },
