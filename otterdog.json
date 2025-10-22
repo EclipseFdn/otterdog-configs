@@ -1178,6 +1178,10 @@
     {
       "name": "technology.disuko",
       "github_id": "eclipse-disuko"
+    },
+    {
+      "name": "technology.dataplane-core",
+      "github_id": "eclipse-dataplane-core"
     }
   ]
 }
