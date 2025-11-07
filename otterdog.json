@@ -1186,6 +1186,10 @@
     {
       "name": "technology.cra-attestations",
       "github_id": "cra-attestations"
+    },
+    {
+      "name": "iot.aerios",
+      "github_id": "eclipse-aerios"
     }
   ]
 }
