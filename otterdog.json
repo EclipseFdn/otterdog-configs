@@ -1190,6 +1190,10 @@
     {
       "name": "iot.aerios",
       "github_id": "eclipse-aerios"
+    },
+    {
+      "name": "technology.dataplane-signaling",
+      "github_id": "eclipse-dataplane-signaling"
     }
   ]
 }
