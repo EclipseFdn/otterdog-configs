@@ -1194,6 +1194,10 @@
     {
       "name": "technology.dataplane-signaling",
       "github_id": "eclipse-dataplane-signaling"
+    },
+    {
+      "name": "automotive.autosd",
+      "github_id": "eclipse-autosd"
     }
   ]
 }
