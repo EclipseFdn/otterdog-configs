@@ -465,7 +465,7 @@
       "github_id": "eclipse-elk"
     },
     {
-      "name": "modeling.emf.egf",
+      "name": "modeling.egf",
       "github_id": "eclipse-egf"
     },
     {
@@ -473,15 +473,15 @@
       "github_id": "eclipse-emf-parsley"
     },
     {
-      "name": "modeling.emf.cdo",
+      "name": "modeling.cdo",
       "github_id": "eclipse-cdo"
     },
     {
-      "name": "modeling.emf.diffmerge",
+      "name": "modeling.diffmerge",
       "github_id": "eclipse-diffmerge"
     },
     {
-      "name": "modeling.emf.emf",
+      "name": "modeling.emf",
       "github_id": "eclipse-emf",
       "credentials": {
         "provider": "pass",
@@ -492,7 +492,7 @@
       }
     },
     {
-      "name": "modeling.emf.mwe",
+      "name": "modeling.mwe",
       "github_id": "eclipse-mwe"
     },
     {
@@ -508,11 +508,11 @@
       "github_id": "eclipse-emfstore"
     },
     {
-      "name": "modeling.emft.emfatic",
+      "name": "modeling.emfatic",
       "github_id": "eclipse-emfatic"
     },
     {
-      "name": "modeling.emft.henshin",
+      "name": "modeling.henshin",
       "github_id": "eclipse-henshin"
     },
     {
@@ -536,15 +536,15 @@
       "github_id": "eclipse-mdt"
     },
     {
-      "name": "modeling.mdt.ocl",
+      "name": "modeling.ocl",
       "github_id": "eclipse-ocl"
     },
     {
-      "name": "modeling.mdt.rmf",
+      "name": "modeling.rmf",
       "github_id": "eclipse-rmf"
     },
     {
-      "name": "modeling.mdt.uml2",
+      "name": "modeling.uml2",
       "github_id": "eclipse-uml2"
     },
     {
@@ -552,15 +552,15 @@
       "github_id": "eclipse-mmt"
     },
     {
-      "name": "modeling.mmt.atl",
+      "name": "modeling.atl",
       "github_id": "eclipse-atl"
     },
     {
-      "name": "modeling.mmt.qvt-oml",
+      "name": "modeling.qvt-oml",
       "github_id": "eclipse-qvto"
     },
     {
-      "name": "modeling.mmt.qvtd",
+      "name": "modeling.qvtd",
       "github_id": "eclipse-qvtd"
     },
     {
@@ -580,7 +580,7 @@
       "github_id": "eclipse-syson"
     },
     {
-      "name": "modeling.tmf.xtext",
+      "name": "modeling.xtext",
       "github_id": "eclipse-xtext"
     },
     {
