@@ -1199,6 +1199,7 @@
       "name": "automotive.autosd",
       "github_id": "eclipse-autosd"
     },
+    {
       "name": "iot.editdor",
       "github_id": "eclipse-editdor"
     }
