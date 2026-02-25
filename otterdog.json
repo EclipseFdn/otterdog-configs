@@ -1202,6 +1202,10 @@
     {
       "name": "iot.editdor",
       "github_id": "eclipse-editdor"
+    },
+    {
+      "name": "modeling.xpect",
+      "github_id": "eclipse-xpect"
     }
   ]
 }
