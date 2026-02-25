@@ -1206,6 +1206,10 @@
     {
       "name": "modeling.xpect",
       "github_id": "eclipse-xpect"
+    },
+    {
+      "name": "technology.packager",
+      "github_id": "eclipse-packager"
     }
   ]
 }
