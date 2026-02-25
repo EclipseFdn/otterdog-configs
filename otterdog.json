@@ -1214,6 +1214,6 @@
     {
       "name": "iot.packages",
       "github_id": "eclipse-packages"
-    },
+    }
   ]
 }
