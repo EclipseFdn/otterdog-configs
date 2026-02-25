@@ -1214,6 +1214,10 @@
     {
       "name": "iot.packages",
       "github_id": "eclipse-packages"
+    },
+    {
+      "name": "iot.mraa",
+      "github_id": "eclipse-mraa"
     }
   ]
 }
