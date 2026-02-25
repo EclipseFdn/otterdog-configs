@@ -1210,6 +1210,10 @@
     {
       "name": "technology.packager",
       "github_id": "eclipse-packager"
-    }
+    },
+    {
+      "name": "iot.packages",
+      "github_id": "eclipse-packages"
+    },
   ]
 }
