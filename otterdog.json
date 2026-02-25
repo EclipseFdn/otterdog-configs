@@ -1218,6 +1218,10 @@
     {
       "name": "iot.mraa",
       "github_id": "eclipse-mraa"
+    },
+    {
+      "name": "automotive.cloe",
+      "github_id": "eclipse-cloe"
     }
   ]
 }
