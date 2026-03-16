@@ -117,6 +117,10 @@
       "github_id": "eclipse-sdv-blueprints"
     },
     {
+      "name": "automotive.sdv-landscape",
+      "github_id": "eclipse-sdv-landscape"
+    },
+    {
       "name": "automotive.sdv-lvl",
       "github_id": "eclipse-sdv-lvl"
     },
