@@ -584,6 +584,10 @@
       "github_id": "eclipse-syson"
     },
     {
+      "name": "modeling.tmodeler",
+      "github_id": "eclipse-tmodeler"
+    },
+    {
       "name": "modeling.xtext",
       "github_id": "eclipse-xtext"
     },
