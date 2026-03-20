@@ -226,6 +226,10 @@
       "github_id": "eclipse-opensmartclide"
     },
     {
+      "name": "ecd.openvsx",
+      "github_id": "eclipse-openvsx"
+    },
+    {
       "name": "ecd.oct",
       "github_id": "eclipse-oct"
     },
