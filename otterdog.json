@@ -700,6 +700,10 @@
       "github_id": "eclipse-cbi"
     },
     {
+      "name": "technology.cfm",
+      "github_id": "eclipse-cfm"
+    },
+    {
       "name": "technology.cognicrypt",
       "github_id": "eclipse-cognicrypt"
     },
