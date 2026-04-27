@@ -134,6 +134,10 @@
       "github_id": "eclipse-sumo"
     },
     {
+      "name": "automotive.timpani",
+      "github_id": "eclipse-timpani"
+    },
+    {
       "name": "automotive.tractusx",
       "github_id": "eclipse-tractusx"
     },
