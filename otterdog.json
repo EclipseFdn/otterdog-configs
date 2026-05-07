@@ -65,6 +65,10 @@
       "github_id": "eclipse-heimlig"
     },
     {
+      "name": "automotive.hephaestus",
+      "github_id": "eclipse-hephaestus"
+    },
+    {
       "name": "automotive.ibeji",
       "github_id": "eclipse-ibeji"
     },
