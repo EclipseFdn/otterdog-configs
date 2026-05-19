@@ -1254,6 +1254,10 @@
     {
       "name": "automotive.cloe",
       "github_id": "eclipse-cloe"
+    },
+    {
+      "name": "locationtech",
+      "github_id": "locationtech"
     }
   ]
 }
