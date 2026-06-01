@@ -840,6 +840,10 @@
       "github_id": "eclipse-keypont"
     },
     {
+      "name": "technology.keysealer",
+      "github_id": "eclipse-keysealer"
+    },
+    {
       "name": "technology.lemminx",
       "github_id": "eclipse-lemminx"
     },
