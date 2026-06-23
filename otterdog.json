@@ -1266,6 +1266,10 @@
     {
       "name": "locationtech",
       "github_id": "locationtech"
+    },
+    {
+      "name": "technology.pcs",
+      "github_id": "eclipse-pcs"
     }
   ]
 }
