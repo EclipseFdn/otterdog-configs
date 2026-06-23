@@ -1274,6 +1274,10 @@
     {
       "name": "technology.bucky",
       "github_id": "eclipse-bucky"
+    },
+    {
+      "name": "iot.threadx.canon-c",
+      "github_id": "eclipse-canon-c"
     }
   ]
 }
