@@ -1270,6 +1270,10 @@
     {
       "name": "technology.pcs",
       "github_id": "eclipse-pcs"
+    },
+    {
+      "name": "technology.bucky",
+      "github_id": "eclipse-bucky"
     }
   ]
 }
