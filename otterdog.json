@@ -1278,6 +1278,10 @@
     {
       "name": "iot.threadx.canon-c",
       "github_id": "eclipse-canon-c"
+    },
+    {
+      "name": "technology.sailing-analytics",
+      "github_id": "eclipse-sailing-analytics"
     }
   ]
 }
