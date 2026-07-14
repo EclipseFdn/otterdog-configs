@@ -1282,6 +1282,10 @@
     {
       "name": "technology.sailing-analytics",
       "github_id": "eclipse-sailing-analytics"
+    },
+    {
+      "name": "technology.qsos",
+      "github_id": "eclipse-qsos"
     }
   ]
 }
