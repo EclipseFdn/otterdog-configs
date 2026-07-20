@@ -1286,6 +1286,10 @@
     {
       "name": "technology.qsos",
       "github_id": "eclipse-qsos"
+    },
+    {
+      "name": "ecd.enclave",
+      "github_id": "eclipse-enclave"
     }
   ]
 }
