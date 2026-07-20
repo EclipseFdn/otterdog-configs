@@ -1290,6 +1290,10 @@
     {
       "name": "ecd.enclave",
       "github_id": "eclipse-enclave"
+    },
+    {
+      "name": "openhw.atesor",
+      "github_id": "eclipse-atesor"
     }
   ]
 }
