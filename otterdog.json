@@ -1294,6 +1294,10 @@
     {
       "name": "openhw.atesor",
       "github_id": "eclipse-atesor"
+    },
+    {
+      "name": "automotive.ssam",
+      "github_id": "eclipse-ssam"
     }
   ]
 }
