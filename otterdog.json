@@ -1298,6 +1298,10 @@
     {
       "name": "automotive.ssam",
       "github_id": "eclipse-ssam"
+    },
+    {
+      "name": "dt.aascw",
+      "github_id": "eclipse-aascw"
     }
   ]
 }
