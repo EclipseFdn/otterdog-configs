@@ -65,6 +65,10 @@
       "github_id": "eclipse-heimlig"
     },
     {
+      "name": "automotive.hephaestus",
+      "github_id": "eclipse-hephaestus"
+    },
+    {
       "name": "automotive.ibeji",
       "github_id": "eclipse-ibeji"
     },
@@ -117,6 +121,10 @@
       "github_id": "eclipse-sdv-blueprints"
     },
     {
+      "name": "automotive.sdv-landscape",
+      "github_id": "eclipse-sdv-landscape"
+    },
+    {
       "name": "automotive.sdv-lvl",
       "github_id": "eclipse-sdv-lvl"
     },
@@ -128,6 +136,10 @@
     {
       "name": "automotive.sumo",
       "github_id": "eclipse-sumo"
+    },
+    {
+      "name": "automotive.timpani",
+      "github_id": "eclipse-timpani"
     },
     {
       "name": "automotive.tractusx",
@@ -220,6 +232,10 @@
     {
       "name": "ecd.opensmartclide",
       "github_id": "eclipse-opensmartclide"
+    },
+    {
+      "name": "ecd.openvsx",
+      "github_id": "eclipse-openvsx"
     },
     {
       "name": "ecd.oct",
@@ -580,6 +596,10 @@
       "github_id": "eclipse-syson"
     },
     {
+      "name": "modeling.tmodeler",
+      "github_id": "eclipse-tmodeler"
+    },
+    {
       "name": "modeling.xtext",
       "github_id": "eclipse-xtext"
     },
@@ -688,6 +708,10 @@
       "github_id": "eclipse-cbi"
     },
     {
+      "name": "technology.cfm",
+      "github_id": "eclipse-cfm"
+    },
+    {
       "name": "technology.cognicrypt",
       "github_id": "eclipse-cognicrypt"
     },
@@ -730,6 +754,10 @@
     {
       "name": "technology.dataspace-drp",
       "github_id": "eclipse-dataspace-drp"
+    },
+    {
+      "name": "technology.dataspace-hub",
+      "github_id": "eclipse-dataspace-hub"
     },
     {
       "name": "technology.dataspace-protocol-base",
@@ -808,6 +836,14 @@
       "github_id": "eclipse-justj"
     },
     {
+      "name": "technology.keypont",
+      "github_id": "eclipse-keypont"
+    },
+    {
+      "name": "technology.keysealer",
+      "github_id": "eclipse-keysealer"
+    },
+    {
       "name": "technology.lemminx",
       "github_id": "eclipse-lemminx"
     },
@@ -874,6 +910,10 @@
     {
       "name": "technology.packaging.mpc",
       "github_id": "eclipse-mpc"
+    },
+    {
+      "name": "technology.paneval",
+      "github_id": "eclipse-paneval"
     },
     {
       "name": "technology.pass",
@@ -1198,6 +1238,70 @@
     {
       "name": "automotive.autosd",
       "github_id": "eclipse-autosd"
+    },
+    {
+      "name": "iot.editdor",
+      "github_id": "eclipse-editdor"
+    },
+    {
+      "name": "modeling.xpect",
+      "github_id": "eclipse-xpect"
+    },
+    {
+      "name": "technology.packager",
+      "github_id": "eclipse-packager"
+    },
+    {
+      "name": "iot.packages",
+      "github_id": "eclipse-packages"
+    },
+    {
+      "name": "iot.mraa",
+      "github_id": "eclipse-mraa"
+    },
+    {
+      "name": "automotive.cloe",
+      "github_id": "eclipse-cloe"
+    },
+    {
+      "name": "locationtech",
+      "github_id": "locationtech"
+    },
+    {
+      "name": "technology.pcs",
+      "github_id": "eclipse-pcs"
+    },
+    {
+      "name": "technology.bucky",
+      "github_id": "eclipse-bucky"
+    },
+    {
+      "name": "iot.threadx.canon-c",
+      "github_id": "eclipse-canon-c"
+    },
+    {
+      "name": "technology.sailing-analytics",
+      "github_id": "eclipse-sailing-analytics"
+    },
+    {
+      "name": "technology.qsos",
+      "github_id": "eclipse-qsos"
+    },
+    {
+      "name": "ecd.enclave",
+      "github_id": "eclipse-enclave"
+    },
+    {
+      "name": "openhw.atesor",
+      "github_id": "eclipse-atesor"
+    },
+    {
+      "name": "automotive.ssam",
+      "github_id": "eclipse-ssam"
+    },
+    {
+      "name": "dt.aascw",
+      "github_id": "eclipse-aascw"
     }
   ]
 }

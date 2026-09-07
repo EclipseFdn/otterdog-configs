@@ -19,10 +19,9 @@ config:
         
         **Please do not report security vulnerabilities through public issues, discussions, or pull requests.**
         
-        Instead, report it using one of the following ways:
+        Instead, report it by:
 
-        * Contact the [Eclipse Foundation Security Team](mailto:security@eclipse-foundation.org) via email
-        * Create a [confidential issue](https://gitlab.eclipse.org/security/vulnerability-reports/-/issues/new?issuable_template=new_vulnerability) in the Eclipse Foundation Vulnerability Reporting Tracker
+        * Creating a [confidential issue](https://gitlab.eclipse.org/security/vulnerability-reports/-/issues/new?issuable_template=new_vulnerability) in the Eclipse Foundation Vulnerability Reporting Tracker
         
         You can find more information about reporting and disclosure at the [Eclipse Foundation Security page](https://www.eclipse.org/security/).
 
