@@ -10,7 +10,8 @@
         ".*-project-leads",
         ".*-committers",
         ".*-contributors",
-        ".*(?<!eclipsefdn)-security"
+        ".*-security",
+        "eclipsefdn-releng"
       ]
     },
     "bitwarden": {
