@@ -1313,6 +1313,10 @@
       "github_id": "eclipse-libersom"
     },
     {
+      "name": "technology.wisteria-dataviz",
+      "github_id": "eclipse-wisteria-dataviz"
+    },
+    {
       "name": "automotive.score-verified",
       "github_id": "eclipse-score-verified"
     }
