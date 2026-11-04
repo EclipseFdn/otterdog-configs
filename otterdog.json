@@ -1321,6 +1321,10 @@
       "github_id": "eclipse-fastbelt"
     },
     {
+      "name": "automotive.sysdac",
+      "github_id": "eclipse-sysdac"
+    },
+    {
       "name": "automotive.score-verified",
       "github_id": "eclipse-score-verified"
     }
