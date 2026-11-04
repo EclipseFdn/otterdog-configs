@@ -1311,6 +1311,10 @@
     {
       "name": "automotive.libersom",
       "github_id": "eclipse-libersom"
+    },
+    {
+      "name": "automotive.score-verified",
+      "github_id": "eclipse-score-verified"
     }
   ]
 }
