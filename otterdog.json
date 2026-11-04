@@ -1325,6 +1325,10 @@
       "github_id": "eclipse-sysdac"
     },
     {
+      "name": "technology.oie",
+      "github_id": "eclipse-oie"
+    },
+    {
       "name": "automotive.score-verified",
       "github_id": "eclipse-score-verified"
     }
