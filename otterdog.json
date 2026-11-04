@@ -1307,6 +1307,10 @@
     {
       "name": "technology.inception",
       "github_id": "eclipse-inception"
+    },
+    {
+      "name": "automotive.libersom",
+      "github_id": "eclipse-libersom"
     }
   ]
 }
