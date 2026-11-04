@@ -1329,6 +1329,10 @@
       "github_id": "eclipse-oie"
     },
     {
+      "name": "technology.scintx",
+      "github_id": "eclipse-scintx"
+    },
+    {
       "name": "automotive.score-verified",
       "github_id": "eclipse-score-verified"
     }
