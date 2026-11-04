@@ -1317,6 +1317,10 @@
       "github_id": "eclipse-wisteria-dataviz"
     },
     {
+      "name": "ecd.fastbelt",
+      "github_id": "eclipse-fastbelt"
+    },
+    {
       "name": "automotive.score-verified",
       "github_id": "eclipse-score-verified"
     }
