@@ -1335,6 +1335,10 @@
     {
       "name": "automotive.score-verified",
       "github_id": "eclipse-score-verified"
+    },
+    {
+      "name": "openhw",
+      "github_id": "openhwfoundation"
     }
   ]
 }
